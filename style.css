@@ -3,3 +3,9 @@ h1{
     font-size: 12px;
     column-gap: normal;
 }
+
+h2{
+    color: red;
+    font-size: 12px;
+    column-gap: normal;
+}
