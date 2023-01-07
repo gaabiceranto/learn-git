@@ -4,6 +4,7 @@ h1{
     column-gap: normal;
 }
 
+<<<<<<< HEAD
 h3{
     color: red;
     font-size: 12px;
@@ -11,6 +12,9 @@ h3{
 }
 
 h4{
+=======
+h2{
+>>>>>>> primeiro_branch
     color: red;
     font-size: 12px;
     column-gap: normal;
