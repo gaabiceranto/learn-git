@@ -16,3 +16,7 @@ h4{
     font-size: 12px;
     column-gap: normal;
 }
+
+table {
+    background-color: red;
+}
